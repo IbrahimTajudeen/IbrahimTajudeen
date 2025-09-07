@@ -133,7 +133,7 @@
 ## 🤝 Let’s Connect  
 
 <p align="center">
-  📧 <a href="mailto:donslice6@gmail.com">your-email@example.com</a>  
+  📧 <a href="mailto:donslice6@gmail.com">Gmail</a>  
   | 💼 <a href="https://www.linkedin.com/in/ibrahim-tajudeen-7328312a5/">LinkedIn</a>  
   | 🐦 <a href="https://x.com/CODE2BRAIN">Twitter/X</a>
 </p>
