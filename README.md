@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./A_professional_digital_graphic_banner_features_Ibr.png" alt="Ibrahim Tajudeen Banner" width="100%" />
+  <img src="./banner.png" alt="Ibrahim Tajudeen Banner" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#4DB6AC;">Ibrahim Tajudeen</span></h1>
@@ -133,9 +133,9 @@
 ## 🤝 Let’s Connect  
 
 <p align="center">
-  📧 <a href="mailto:your-email@example.com">your-email@example.com</a>  
-  | 💼 <a href="https://linkedin.com/in/your-linkedin">LinkedIn</a>  
-  | 🐦 <a href="https://twitter.com/your-handle">Twitter/X</a>
+  📧 <a href="mailto:donslice6@gmail.com">your-email@example.com</a>  
+  | 💼 <a href="https://www.linkedin.com/in/ibrahim-tajudeen-7328312a5/">LinkedIn</a>  
+  | 🐦 <a href="https://x.com/CODE2BRAIN">Twitter/X</a>
 </p>
 
 ---
