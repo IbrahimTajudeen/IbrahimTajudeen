@@ -1,96 +1,72 @@
-<h1 align="center">Hi 👋, I'm Blackscorche</h1>
-<h3 align="center">A passionate Fullstack Developer from Nigeria</h3>
+![Banner](./A_professional_digital_graphic_banner_features_Ibr.png)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=blackscorche&label=Profile%20views&color=0e75b6&style=flat" alt="blackscorche" />
-</p>
+# 👋 Hi, I'm Ibrahim Tajudeen  
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=blackscorche" alt="blackscorche" />
-  </a>
-</p>
+**Full-Stack Developer | Compiler & Language Enthusiast | Tech Explorer**  
 
-
+I’m passionate about building real-world applications, creating efficient systems, and pushing boundaries with new technologies. From full-stack web development to designing my own programming language, I love turning complex problems into elegant solutions.  
 
 ---
 
-- 🔭 I’m currently working on [ScorchePay](https://scorchepay.vercel.app)
+## 🛠️ Tech Stack & Tools  
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://abuissaportfolio.vercel.app/)
-
-- ⚡ Fun fact: **I write code like I drink coffee — strong, fast, and slightly chaotic.**
-
----
-
-### 📝 Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-### 🤝 Connect with me:
-<p align="left">
-  <a href="https://dev.to/blackscorche" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to.blackscorche" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/abu-issa" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abu issa" height="30" width="40" />
-  </a>
-</p>
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+![EF Core](https://img.shields.io/badge/Entity_Framework_Core-68217A?style=for-the-badge&logo=dotnet&logoColor=white)  
+![Razor Pages](https://img.shields.io/badge/Razor_Pages-68217A?style=for-the-badge&logo=dotnet&logoColor=white)  
+![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![EJS](https://img.shields.io/badge/EJS-8A2BE2?style=for-the-badge)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)  
 
 ---
 
-### 🛠️ Languages and Tools:
-<p align="left">
-  <!-- Keep each icon separated and spaced for readability -->
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" /></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" /></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /></a>
-  <a href="https://www.flutter.dev/" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" /></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /></a>
-  <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" /></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /></a>
-</p>
+## 🚀 Featured Projects  
+
+### 🏥 Hospital Management System (HMS)  
+A multi-branch hospital management system with role-based access (Super Admin, Admin, Doctors, Nurses, etc.), built with **ASP.NET Core Razor Pages & EF Core**.  
+
+### 💳 Billing App  
+A **C# Xamarin.Forms** app that allows users to:  
+- Buy airtime, data, cable TV subscriptions, etc.  
+- Fund accounts using virtual bank accounts  
+- Manage transactions seamlessly.  
+
+### 🏗️ Safe Construction Company Website  
+A **Node.js, MongoDB, and EJS** powered platform for a construction company with JWT-based authentication and secure staff/management workflows.  
+
+### 🖥️ KalmScript  
+A **compiled programming language** I’m building with **C# and C++**.  
+- Features: manual + GC memory management, metaprogramming, reflection, JIT compilation, multi-language embedding (`@Python{}`, `@CSharp{}`, `@JavaScript{}`), sandboxing, and advanced optimizations.  
+- Core library: **KalmCoreLib**.  
+
+### 📦 Custom Compressed File Format  
+A custom file format designed to store **images, audio, video, text, and HTML canvas content** with advanced encoding & compression.  
 
 ---
 
-### 📊 GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=blackscorche&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+## 📊 GitHub Stats  
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=blackscorche&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+![Ibrahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibrahimtajudeen&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimtajudeen&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ibrahimtajudeen&theme=tokyonight)  
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blackscorche" alt="GitHub Streak" />
-</p>
+---
 
+## 🤝 Let’s Connect  
 
-<!--
-**IbrahimTajudeen/IbrahimTajudeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📧 Email: **[your email here]**  
+- 💼 LinkedIn: **[your LinkedIn profile here]**  
+- 🐦 Twitter/X: **[your Twitter handle here]**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ *“Crafting solutions from web apps to programming languages.”*  
