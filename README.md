@@ -1,72 +1,145 @@
-![Banner](./A_professional_digital_graphic_banner_features_Ibr.png)
+<p align="center">
+  <img src="./A_professional_digital_graphic_banner_features_Ibr.png" alt="Ibrahim Tajudeen Banner" width="100%" />
+</p>
 
-# 👋 Hi, I'm Ibrahim Tajudeen  
+<h1 align="center">👋 Hi, I'm <span style="color:#4DB6AC;">Ibrahim Tajudeen</span></h1>
 
-**Full-Stack Developer | Compiler & Language Enthusiast | Tech Explorer**  
-
-I’m passionate about building real-world applications, creating efficient systems, and pushing boundaries with new technologies. From full-stack web development to designing my own programming language, I love turning complex problems into elegant solutions.  
+<h3 align="center">
+  Full-Stack Developer | Compiler & Language Enthusiast | Tech Explorer
+</h3>
 
 ---
 
 ## 🛠️ Tech Stack & Tools  
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
-![EF Core](https://img.shields.io/badge/Entity_Framework_Core-68217A?style=for-the-badge&logo=dotnet&logoColor=white)  
-![Razor Pages](https://img.shields.io/badge/Razor_Pages-68217A?style=for-the-badge&logo=dotnet&logoColor=white)  
-![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![EJS](https://img.shields.io/badge/EJS-8A2BE2?style=for-the-badge)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)  
+<p align="center">
+  <!-- Core -->
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity_Framework_Core-68217A?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Razor_Pages-68217A?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+
+  <!-- Mobile -->
+  <img src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white" />
+
+  <!-- Web -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/EJS-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pug-A86454?style=for-the-badge&logo=pug&logoColor=white" />
+
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+
+  <!-- Styling -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+
+  <!-- Web3 -->
+  <img src="https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects  
 
-### 🏥 Hospital Management System (HMS)  
-A multi-branch hospital management system with role-based access (Super Admin, Admin, Doctors, Nurses, etc.), built with **ASP.NET Core Razor Pages & EF Core**.  
+<div align="center">
 
-### 💳 Billing App  
-A **C# Xamarin.Forms** app that allows users to:  
-- Buy airtime, data, cable TV subscriptions, etc.  
-- Fund accounts using virtual bank accounts  
-- Manage transactions seamlessly.  
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏥 Hospital Management System (HMS)</h3>
+      <p>
+        Multi-branch hospital management system with role-based access 
+        (Super Admin, Admin, Doctors, Nurses, etc.) built with 
+        <b>ASP.NET Core Razor Pages & EF Core</b>.
+      </p>
+      <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white" />
+      <img src="https://img.shields.io/badge/EF_Core-68217A?style=flat&logo=dotnet&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>💳 Billing App</h3>
+      <p>
+        A <b>C# Xamarin.Forms</b> app for buying airtime, data, cable TV 
+        subscriptions, and funding accounts via virtual bank accounts.  
+      </p>
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
+      <img src="https://img.shields.io/badge/Xamarin-3498DB?style=flat&logo=xamarin&logoColor=white" />
+    </td>
+  </tr>
 
-### 🏗️ Safe Construction Company Website  
-A **Node.js, MongoDB, and EJS** powered platform for a construction company with JWT-based authentication and secure staff/management workflows.  
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏗️ Safe Construction Company Website</h3>
+      <p>
+        A secure <b>Node.js, MongoDB, and EJS</b> platform with 
+        JWT-based authentication and staff management workflows.
+      </p>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/EJS-8A2BE2?style=flat" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🖥️ KalmScript</h3>
+      <p>
+        A compiled programming language built with <b>C# and C++</b>.  
+        Features: memory management, JIT compilation, 
+        multi-language embedding, reflection, sandboxing, and optimizations.  
+        Core library: <b>KalmCoreLib</b>.
+      </p>
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
+    </td>
+  </tr>
 
-### 🖥️ KalmScript  
-A **compiled programming language** I’m building with **C# and C++**.  
-- Features: manual + GC memory management, metaprogramming, reflection, JIT compilation, multi-language embedding (`@Python{}`, `@CSharp{}`, `@JavaScript{}`), sandboxing, and advanced optimizations.  
-- Core library: **KalmCoreLib**.  
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>📦 Custom Compressed File Format</h3>
+      <p>
+        A custom file format designed to store <b>images, audio, video, text, 
+        and HTML canvas content</b> with advanced encoding & compression.
+      </p>
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
+      <img src="https://img.shields.io/badge/Compression-000000?style=flat" />
+    </td>
+  </tr>
+</table>
 
-### 📦 Custom Compressed File Format  
-A custom file format designed to store **images, audio, video, text, and HTML canvas content** with advanced encoding & compression.  
+</div>
 
 ---
 
 ## 📊 GitHub Stats  
 
-![Ibrahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibrahimtajudeen&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimtajudeen&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ibrahimtajudeen&theme=tokyonight)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ibrahimtajudeen&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimtajudeen&layout=compact&theme=tokyonight" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimtajudeen&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🤝 Let’s Connect  
 
-- 📧 Email: **[your email here]**  
-- 💼 LinkedIn: **[your LinkedIn profile here]**  
-- 🐦 Twitter/X: **[your Twitter handle here]**  
+<p align="center">
+  📧 <a href="mailto:your-email@example.com">your-email@example.com</a>  
+  | 💼 <a href="https://linkedin.com/in/your-linkedin">LinkedIn</a>  
+  | 🐦 <a href="https://twitter.com/your-handle">Twitter/X</a>
+</p>
 
 ---
 
-✨ *“Crafting solutions from web apps to programming languages.”*  
+<p align="center">
+  ✨ <em>“Crafting solutions from web apps to programming languages.”</em> ✨
+</p>
