@@ -1,150 +1,146 @@
-<p align="center">
-  <img src="./banner.png" alt="Ibrahim Tajudeen Banner" width="100%" />
-</p>
-
-<h1 align="center">👋 Hi, I'm <span style="color:#4DB6AC;">Ibrahim Tajudeen</span></h1>
-
-<h3 align="center">
-  Full-Stack Developer | Compiler & Language Enthusiast | Tech Explorer
-</h3>
-
----
-
-## 🛠️ Tech Stack & Tools  
-
+🚀 Welcome to the Code Universe | Digital Workshop
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2000&pause=500&color=FF6B35&background=0D111700&center=true&vCenter=true&width=600&height=60&lines=🔥+IBRAHIM+TAJUDEEN+🔥;💻+FULLSTACK+DEV+💻;⚡+MOBILE+ENGINEER+⚡;🌟+INNOVATOR+🌟" alt="Ibrahim Tajudeen Animated" />
+⚡ Fullstack Developer | Mobile Engineer | System Architect
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+Scalable+Web+and+Mobile+Solutions;NestJS+%7C+Node.js+%7C+MongoDB+%7C+C%23;Creating+Next-Gen+Applications+with+Modern+Tech" alt="Typing SVG" /> <img src="https://komarev.com/ghpvc/?username=IbrahimTajudeen&label=Profile+Visitors&color=ff0000&style=for-the-badge" alt="Profile Views" /> <a href="https://github.com/IbrahimTajudeen"> <img src="https://img.shields.io/github/followers/IbrahimTajudeen?label=Followers&style=for-the-badge&color=00D9FF&labelColor=1a1a1a" alt="GitHub Followers" /> </a> </div>
+🎯 Mission Control: Current Projects
 <div align="center">
-  <!-- Core & Frameworks -->
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Entity_Framework_Core-68217A?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Razor_Pages-68217A?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-
-  <!-- Mobile -->
-  <img src="https://img.shields.io/badge/Xamarin.Forms-3498DB?style=for-the-badge&logo=xamarin&logoColor=white" />
-
-  <!-- Web -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/jQuery_UI-FFB13B?style=for-the-badge&logo=jquery&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/EJS-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Pug-A86454?style=for-the-badge&logo=pug&logoColor=white" />
-  <img src="https://img.shields.io/badge/Handlebars.js-f0772b?style=for-the-badge&logo=handlebarsdotjs&logoColor=white"/>
-
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-
-  <!-- Styling -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-
-  <!-- Web3 -->
-  <img src="https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
-
+🚀 Active Project	💡 Innovation Level	🔥 Status	🛠️ Tech Stack
+Hospital Management System (HMS)	ADVANCED	🟡 IN DEVELOPMENT	ASP.NET Core SQL Server EF Core
+Billing App	INNOVATIVE	🟡 IN DEVELOPMENT	C# Xamarin.Forms APIs
+KalmScript Language	LEGENDARY	⚪ RESEARCH & DEVELOPMENT	C# C++ MSIL
 </div>
 
+const ibrahimTajudeen = {
+    name: "Ibrahim Tajudeen",
+    role: "Fullstack Developer",
+    location: "Nigeria 🇳🇬",
+    currentFocus: "Building scalable web, mobile apps & developer tools",
+    
+    expertise: {
+        frontend: ["React", "Next.js", "TypeScript", "Bootstrap", "HTML5", "CSS3"],
+        backend: ["Node.js", "Express.js", "NestJS", "C#", "ASP.NET Core"],
+        mobile: ["Xamarin.Forms", "Flutter", "React Native"],
+        databases: ["MongoDB", "SQL Server", "SQLite"],
+        tools: ["Git", "Docker", "Figma", "Bootstrap"]
+    },
+    
+    learning: {
+        blockchain: ["Solidity", "Web3.js", "Smart Contracts", "DApps"],
+        advanced: ["Microservices", "GraphQL", "Redis", "Kubernetes"],
+        custom: ["Compiler Design", "Language Development"]
+    },
+    
+    currentlyBuilding: "Hospital Management System & Billing App",
+    futureGoals: "Master Web3 and scale KalmScript as a real-world programming language",
+    funFact: "I build systems with precision — from apps to compilers! 🚀"
+};
 
----
+🌟 Featured Projects Portfolio
+<div align="center"> <table> <tr> <td width="50%">
+🏥 Hospital Management System (HMS)
 
-## 🚀 Featured Projects  
+Comprehensive Medical Solution
 
+🏥 Multi-branch hospital support
+
+🔐 Role-based security (Super Admin, Admin, Doctors, Nurses)
+
+📊 Accounting, patients & records management
+
+⚡ Fast, scalable backend with EF Core
+
+🎨 Organized backend UI with tabs
+
+Tech: ASP.NET Core SQL Server EF Core
+
+</td> <td width="50%">
+📱 Billing App
+
+Smart Digital Payments
+
+💳 Airtime & data subscriptions
+
+📺 Cable TV subscription management
+
+🏦 Virtual bank accounts integration
+
+📱 Mobile-first user experience
+
+🔧 APIs for secure payments
+
+Tech: C# Xamarin.Forms Payment APIs
+
+</td> </tr> <tr> <td width="50%" colspan="2">
+🖥️ KalmScript
+
+Custom Programming Language
+
+🔧 Built on C# and C++
+
+⚡ Compiled into MSIL with JIT support
+
+🔒 Security sandboxing system
+
+🛠️ Multi-language embedding (@Python, @CSharp, @JavaScript)
+
+📚 Custom standard library KalmCoreLib
+
+Tech: C# C++ Compiler Design
+
+</td> </tr> </table>
+🔮 Upcoming Projects
+<img src="https://img.shields.io/badge/Web3_Projects-Coming_Soon-yellow?style=for-the-badge&logo=ethereum" /> <img src="https://img.shields.io/badge/AI_Integration-Research-orange?style=for-the-badge&logo=OpenAI" /> <img src="https://img.shields.io/badge/Custom_Compression_Format-In_Development-blue?style=for-the-badge&logo=file" /> </div>
+💡 What I'm Currently Up To
 <div align="center">
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏥 Hospital Management System (HMS)</h3>
-      <p>
-        Multi-branch hospital management system with role-based access 
-        (Super Admin, Admin, Doctors, Nurses, etc.) built with 
-        <b>ASP.NET Core Razor Pages & EF Core</b>.
-      </p>
-      <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white" />
-      <img src="https://img.shields.io/badge/EF_Core-68217A?style=flat&logo=dotnet&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>💳 Billing App</h3>
-      <p>
-        A <b>C# Xamarin.Forms</b> app for buying airtime, data, cable TV 
-        subscriptions, and funding accounts via virtual bank accounts.  
-      </p>
-      <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
-      <img src="https://img.shields.io/badge/Xamarin-3498DB?style=flat&logo=xamarin&logoColor=white" />
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏗️ Safe Construction Company Website</h3>
-      <p>
-        A secure <b>Node.js, MongoDB, and EJS</b> platform with 
-        JWT-based authentication and staff management workflows.
-      </p>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/EJS-8A2BE2?style=flat" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🖥️ KalmScript</h3>
-      <p>
-        A compiled programming language built with <b>C# and C++</b>.  
-        Features: memory management, JIT compilation, 
-        multi-language embedding, reflection, sandboxing, and optimizations.  
-        Core library: <b>KalmCoreLib</b>.
-      </p>
-      <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
-    </td>
-  </tr>
-
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>📦 Custom Compressed File Format</h3>
-      <p>
-        A custom file format designed to store <b>images, audio, video, text, 
-        and HTML canvas content</b> with advanced encoding & compression.
-      </p>
-      <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
-      <img src="https://img.shields.io/badge/Compression-000000?style=flat" />
-    </td>
-  </tr>
-</table>
+graph TD
+    A[🚀 Building HMS] --> B[📱 Developing Billing App]
+    A --> C[🖥️ Designing KalmScript]
+    B --> D[🔧 API Integration]
+    C --> E[📚 Compiler & Language Design]
+    E --> F[🎯 Web3 Integration Research]
+    F --> G[🌟 Future AI + Blockchain Projects]
 
 </div>
+🎯 Current Focus Areas:
 
----
+🔧 Perfecting: NestJS, ASP.NET Core, Xamarin.Forms
 
-## 📊 GitHub Stats  
+📚 Learning: Compiler design, Blockchain/Web3 development
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibrahimtajudeen&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimtajudeen&layout=compact&theme=tokyonight" height="160" />
-</p>
+🚀 Building: Hospital Management System & Billing App
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimtajudeen&theme=tokyonight" />
-</p>
+🎨 Improving: Clean architecture & UI/UX skills
 
----
+🌐 Exploring: AI-powered tools & secure development
 
-## 🤝 Let’s Connect  
-
+🤝 Let's Connect & Build Together
 <div align="center">
-  <a href="mailto:donslice6@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ibrahim-tajudeen-7328312a5/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/CODE2BRAIN"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+Ready to Create Something Amazing?
+<a href="https://linkedin.com/in/PLACEHOLDER"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://dev.to/PLACEHOLDER"> <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /> </a> <a href="mailto:ibrahimtajudeen98@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+💼 Available for:
+
+Fullstack Development • Mobile Apps • Compiler/Language Design • Consulting • Collaborations
+
+🔥 Specializing in:
+
+Web Applications: NestJS, ASP.NET Core, Next.js
+
+Backend Systems: Node.js, C#, RESTful APIs
+
+Mobile Development: Xamarin.Forms, Flutter
+
+Database Design: SQL Server, MongoDB, SQLite
+
+Compiler & Language Dev: KalmScript, Parser/AST Design
+
 </div>
+<div align="center">
+🌟 "Great code is like a good joke - if you have to explain it, it's probably not that good."
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=20&fontColor=fff&animation=twinkling" /> </div>
 
----
-
-<p align="center">
-  ✨ <em>“Crafting solutions from web apps to programming languages.”</em> ✨
-</p>
+✅ All blackscorche references replaced
+✅ Projects updated (HMS, Billing App, KalmScript)
+✅ Email set → ibrahimtajudeen98@gmail.com
+✅ GitHub username fixed → IbrahimTajudeen
+✅ Portfolio link kept as placeholder
