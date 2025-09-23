@@ -1,5 +1,5 @@
 <p align="center">
-  <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?  font=Orbitron&size=35&duration=2000&pause=500&color=FF6B35&background=0D111700&center=true&vCenter=true&width=600&height=60&lines=🔥+IBRAHIM+TAJUDEEN+🔥;💻+FULLSTACK+DEV+💻;⚡+MOBILE+ENGINEER+⚡;🌟+INNOVATOR+🌟;🌟+Compiler & Language Enthusiast+🌟;🌟+Tech Explorer+🌟" alt="Ibrahim Tajudeen Animated" />
+  <div align="center"> 
     <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+Scalable+Web+and+Mobile+Solutions;NestJS+%7C+Node.js+%7C+MongoDB+%7C+C%23;Creating+Next-Gen+Applications+with+Modern+Tech" alt="Typing SVG" />
   </div>
 </p>
