@@ -11,11 +11,11 @@ Building scalable APIs, fintech systems, AI-powered platforms, and cross-platfor
 </p>
 
 <p>
-  <a href="https://www.nexocode.vercel.app">
+  <a href="https://nexocode.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 
-  <a href="https://www.nexocode-cv.vercel.app">
+  <a href="https://nexocode-cv.vercel.app">
     <img src="https://img.shields.io/badge/Resume_Website-111827?style=for-the-badge&logo=readme&logoColor=white" />
   </a>
 
