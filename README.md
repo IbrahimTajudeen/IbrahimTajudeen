@@ -1,34 +1,25 @@
-# 👋 Ibrahim Tajudeen
+# Ibrahim Tajudeen
 
 <div align="center">
 
-### Software Engineer
+## Software Engineer — Backend & Systems
 
-#### Backend Systems • Fintech Infrastructure • Modern Web Applications
+**Backend Engineering · Fintech Infrastructure · Distributed Systems · Enterprise Platforms**
 
-<p>
-Building scalable APIs, fintech systems, AI-powered platforms, and cross-platform applications across web, desktop, and mobile ecosystems.
-</p>
+Building secure, scalable backend systems and the infrastructure that powers modern financial and business applications.
 
 <p>
   <a href="https://nexocode.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-
   <a href="https://nexocode-cv.vercel.app">
-    <img src="https://img.shields.io/badge/Resume_Website-111827?style=for-the-badge&logo=readme&logoColor=white" />
+    <img src="https://img.shields.io/badge/Resume-111827?style=for-the-badge&logo=readme&logoColor=white" />
   </a>
-
-  <a href="https://github.com/ibrahimtajudeen">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
   <a href="https://www.linkedin.com/in/ibrahim-tajudeen-7328312a5">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
-  <a href="https://x.com/CODE2BRAIN">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  <a href="mailto:donslice6@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -36,223 +27,406 @@ Building scalable APIs, fintech systems, AI-powered platforms, and cross-platfor
 
 ---
 
-# 🚀 About Me
+## About
 
-I’m a software engineer focused on backend systems, fintech infrastructure, AI integrations, and scalable application architecture.
+I am a **Software Engineer with 8+ years of experience building production-oriented software**, with a strong focus on backend engineering, financial infrastructure, enterprise systems, and application architecture.
 
-My engineering work spans:
+My engineering foundation is **C#/.NET**, with extensive experience building backend services using **ASP.NET Core, NestJS, Node.js, and Python/FastAPI**.
 
-* fintech systems
-* wallet infrastructures
-* secure transaction workflows
+I work across the full lifecycle of backend systems — from database and API design to authentication, authorization, background processing, event-driven workflows, infrastructure, integrations, and production deployment.
+
+### What I build
+
+* High-performance REST APIs
+* Fintech and payment infrastructure
+* Wallet and transaction systems
+* Multi-tenant enterprise platforms
+* Authentication and authorization systems
+* Event-driven backend architectures
+* Background processing systems
+* Database and data-access layers
 * AI-powered applications
-* authentication platforms
-* developer tooling
-* enterprise management systems
-* cross-platform mobile & desktop apps
+* Developer and internal engineering tools
+* Cross-platform applications
 
-I enjoy building systems that combine:
-
-* scalability
-* performance
-* security
-* maintainability
-* clean architecture
-
-I also work on low-level engineering and compiler-related projects including custom runtime systems and programming language architecture.
+I am particularly interested in **systems where correctness, security, scalability, and data integrity matter**.
 
 ---
 
-# 🛠️ Core Technologies
+# ⚙️ Core Engineering
 
-## Languages
+### Backend
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+`C#` `ASP.NET Core` `.NET` `TypeScript` `NestJS` `Node.js` `Python` `FastAPI`
 
----
-## ORM & Data Access
+### Architecture
 
-<p>
-  <img src="https://img.shields.io/badge/Entity_Framework_Core-68217A?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeORM-E83524?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Dapper-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/ADO.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" />
-</p>
+`REST APIs` `Clean Architecture` `Modular Architecture` `Event-Driven Systems` `CQRS` `Multi-Tenancy` `RBAC` `Distributed Systems`
 
----
+### Data
 
-## Backend & Infrastructure
+`PostgreSQL` `SQL Server` `MySQL` `MongoDB` `Redis`
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-</p>
+### Data Access
+
+`Entity Framework Core` `Dapper` `ADO.NET` `Drizzle ORM` `Prisma` `TypeORM` `Mongoose`
+
+### Infrastructure
+
+`Docker` `Redis` `BullMQ` `CI/CD` `GitHub Actions` `Infisical` `PostgreSQL Connection Pooling`
+
+### Frontend
+
+`React` `Next.js` `Blazor` `Tailwind CSS` `ShadCN`
+
+### Cross-Platform
+
+`.NET MAUI` `React Native` `Flutter` `WPF` `WinForms`
+
+### Systems
+
+`C#` `C++` `MSIL` `Compilers` `Runtimes` `JIT` `ASTs`
 
 ---
 
-## Frontend & Cross Platform
+# 🏦 Fintech & Financial Systems
 
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Xamarin.Forms-3498DB?style=for-the-badge&logo=xamarin&logoColor=white" />
-  <img src="https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/UWP-0078D7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/WinForms-68217A?style=for-the-badge" />
-</p>
+A major part of my engineering experience has been building systems around **money movement and financial data**.
 
----
+I have worked on:
 
-## Databases & Cloud
+* Wallet infrastructure
+* Virtual accounts
+* Payment processing
+* P2P transaction systems
+* Transaction ledgers
+* Payment provider integrations
+* Idempotent transaction processing
+* Transaction auditing
+* Merchant verification
+* Financial data integrity
+* Role-based financial operations
+* Secure payment APIs
 
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</p>
+### Financial ecosystem
+
+`Nomba` · `Paystack` · `Bybit P2P` · `Supabase` · `PostgreSQL` · `Redis`
 
 ---
 
-# 💼 Featured Engineering Projects
+# 🚀 Selected Engineering Work
 
-## 💳 ScorchePay — Fintech Platform
+## Stoneb00k — Enterprise Business Platform
 
-Built scalable wallet infrastructure supporting:
+Backend engineering for a multi-tenant business management platform covering financial operations, taxation, HR, payroll, fixed assets, branches, and company administration.
 
-* virtual accounts
-* secure transfers
-* transaction auditing
-* RBAC authentication
-* payment processing APIs
-* idempotent transaction handling
+### Responsibilities & Engineering Areas
 
-**Stack:** Node.js • PostgreSQL • React.js • Payment APIs
+* Multi-tenant backend architecture
+* Company and branch isolation
+* RBAC and authentication
+* PostgreSQL data architecture
+* Row-Level Security
+* Domain events
+* Command/query handlers
+* Event projectors
+* Redis caching
+* BullMQ background jobs
+* Tax infrastructure
+* HR and payroll modules
+* Fixed asset management
+* Depreciation processing
+* Asset transfers and disposals
+* Financial/accounting workflows
 
----
+### Architecture
 
-## 🏦 SkuidPay — P2P Fintech Infrastructure
+```text
+HTTP Request
+     │
+     ▼
+Controller
+     │
+     ▼
+Command / Query
+     │
+     ▼
+Handler
+     │
+     ▼
+Domain Event
+     │
+     ▼
+Projector
+     │
+     ▼
+PostgreSQL / Read Model
+```
 
-Developed secure peer-to-peer transaction systems with:
-
-* wallet management
-* merchant identity validation
-* Bybit P2P API integrations
-* encryption layers
-* row-level security systems
-
-**Stack:** NestJS • React.js • PostgreSQL • Supabase
-
----
-
-## 🧠 KalmScript — Compiled Programming Language
-
-Architecting a custom compiled programming language featuring:
-
-* custom lexer/parser/AST systems
-* multi-language interoperability
-* unified MSIL execution
-* JIT runtime systems
-* sandboxed execution
-* modular DLL dependency management
-
-**Stack:** C# • C/C++ • MSIL
-
----
-
-## 🏥 Hospital Management System
-
-Designed a multi-branch hospital management platform supporting:
-
-* branch isolation
-* role-based authorization
-* operational digitization
-* scalable healthcare workflows
-
-**Stack:** ASP.NET • SQL Server • React.js
+**Stack:** `NestJS` · `TypeScript` · `PostgreSQL` · `Drizzle ORM` · `Redis` · `BullMQ` · `Better Auth` · `Infisical`
 
 ---
 
-## 📊 SaleTrack — Inventory & Auditing Platform
+# 💳 ScorchePay — Fintech Infrastructure
 
-Built enterprise inventory systems with:
+Backend engineering for a fintech platform supporting wallet and payment infrastructure.
 
-* sales auditing
-* analytics dashboards
-* fraud prevention
-* reporting workflows
+### Systems
 
-**Stack:** ASP.NET • SQL Server • React.js
+* Wallet management
+* Virtual accounts
+* Transfer processing
+* Payment APIs
+* Transaction auditing
+* Idempotency
+* RBAC
+* Secure transaction workflows
 
----
-
-## 🤖 AI-Based Phishing Detection System
-
-Implemented machine learning-based phishing detection pipelines using:
-
-* TF-IDF vectorization
-* supervised learning models
-* REST communication systems
-* PowerShell automation
-
-**Stack:** NestJs • EJS • Python • TensorFlow • REST APIs
+**Stack:** `Node.js` · `NestJS` · `PostgreSQL` · `React` · `Payment APIs`
 
 ---
 
-# 📈 GitHub Stats
+# 🔐 SkuidPay — P2P Financial Infrastructure
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibrahimtajudeen&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimtajudeen&layout=compact&theme=tokyonight" height="170" />
-</p>
+Backend systems for peer-to-peer financial transactions and merchant operations.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimtajudeen&theme=tokyonight" />
-</p>
+### Systems
 
----
+* P2P transaction workflows
+* Wallet management
+* Merchant identity validation
+* Bybit P2P integration
+* Encryption
+* Row-Level Security
+* Secure API infrastructure
 
-# 🎯 Current Focus
-
-* Backend Systems Architecture
-* Fintech Infrastructure
-* Secure API Engineering
-* AI Integrations
-* Cross-Platform Applications
-* Compiler & Runtime Systems
-* Scalable Enterprise Platforms
+**Stack:** `NestJS` · `React` · `PostgreSQL` · `Supabase`
 
 ---
 
-# 🤝 Connect With Me
+# 🛡️ Neoverify — Verification Platform
 
-<p align="center">
+Engineering work around a verification and compliance platform supporting users, companies, verification workflows, and operational dashboards.
 
-<a href="mailto:donslice6@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+### Engineering Areas
+
+* Verification APIs
+* Company management
+* User workflows
+* Approval/rejection flows
+* Dashboard analytics
+* Fraud-related metrics
+* Authentication
+* Backend/frontend API contracts
+* Review workflows
+
+**Stack:** `Next.js` · `TypeScript` · `React` · `Python` · `FastAPI`
+
+---
+
+# 💰 FinSight — Personal Finance Platform
+
+A financial management platform designed to centralize personal finance operations and provide intelligent financial assistance.
+
+### Architecture & Integrations
+
+* ASP.NET Web API
+* .NET MAUI
+* Supabase
+* Nomba
+* Gemini
+* JWT authentication
+* Google OAuth
+* Financial data management
+* Payment infrastructure
+* AI financial assistant
+
+The long-term goal is a unified financial platform spanning **wallets, accounts, payments, bills, subscriptions, financial analytics, and AI-assisted financial management**.
+
+---
+
+# 🧠 KalmScript — Language & Runtime Engineering
+
+A systems-level project exploring the architecture of a custom programming language and runtime.
+
+### Engineering Areas
+
+* Lexer architecture
+* Parser design
+* AST construction
+* Compiler pipelines
+* MSIL generation
+* Runtime systems
+* JIT execution
+* Sandboxed execution
+* DLL/module loading
+* Multi-language interoperability
+
+**Stack:** `C#` · `C/C++` · `MSIL`
+
+---
+
+# 🏥 Enterprise Applications
+
+I have also designed and built enterprise applications covering:
+
+### Hospital Management
+
+* Multi-branch architecture
+* Role-based authorization
+* Operational workflows
+* Organization-level data isolation
+* Administrative systems
+
+**ASP.NET · SQL Server · React**
+
+### Inventory & Auditing
+
+* Inventory management
+* Sales tracking
+* Auditing
+* Analytics
+* Reporting
+* Fraud-prevention workflows
+
+**ASP.NET · SQL Server · React**
+
+---
+
+# 🔬 Engineering Interests
+
+I enjoy working on problems involving:
+
+```text
+System Design
+Backend Architecture
+Distributed Systems
+Financial Infrastructure
+Payment Systems
+Database Architecture
+Data Integrity
+Event-Driven Architecture
+Authentication & Authorization
+Security
+Performance
+Cloud Infrastructure
+Developer Tooling
+AI Systems
+Compilers
+Runtime Engineering
+```
+
+---
+
+# 📈 Engineering Philosophy
+
+I generally approach backend systems around a few principles:
+
+### 01 — Correctness
+
+Financial and business systems should produce predictable, auditable results.
+
+### 02 — Security
+
+Authentication, authorization, data isolation, secrets, and transaction integrity should be designed into the system rather than added later.
+
+### 03 — Maintainability
+
+Good architecture should make the system easier to understand, test, extend, and operate.
+
+### 04 — Scalability
+
+Systems should be designed with realistic growth in mind — database load, background processing, caching, concurrency, and service boundaries.
+
+### 05 — Observability
+
+Production systems should make it possible to understand what happened when something goes wrong.
+
+---
+
+# 🧰 Current Technical Direction
+
+I am currently deepening my work around:
+
+* Advanced .NET and backend architecture
+* NestJS and TypeScript backend systems
+* Distributed systems
+* Event-driven architecture
+* Financial infrastructure
+* Cloud-native development
+* AI application architecture
+* Blockchain infrastructure
+* Solidity
+* ethers.js
+* Compiler and runtime engineering
+
+---
+
+# 🏗️ Building Nexo Technology Co.
+
+Alongside my engineering work, I am building **Nexo Technology Co.**, a technology company focused on software development, digital products, and technology services.
+
+The company is focused on:
+
+* Custom software development
+* Backend systems
+* Web applications
+* Fintech solutions
+* Business management platforms
+* Mobile applications
+* API development
+* Product development
+* Technical consulting
+* Graphic and brand design
+
+**Software engineering remains my primary technical focus.**
+
+---
+
+# 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ibrahimtajudeen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimtajudeen&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimtajudeen&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🌍 Open to Remote Opportunities
+
+I am interested in working with teams building **serious software products and infrastructure**, particularly in:
+
+* Backend Engineering
+* Software Engineering
+* Fintech
+* Payments
+* SaaS
+* Developer Infrastructure
+* Enterprise Platforms
+* AI-powered products
+* Distributed Systems
+
+I am especially interested in roles where I can contribute to **backend architecture, API design, databases, infrastructure, system reliability, and technical problem solving**.
+
+---
+
+# 🤝 Connect
+
+<div align="center">
+
+<a href="https://nexocode.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://nexocode-cv.vercel.app">
+  <img src="https://img.shields.io/badge/Resume-111827?style=for-the-badge&logo=readme&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/ibrahim-tajudeen-7328312a5/">
@@ -263,10 +437,18 @@ Implemented machine learning-based phishing detection pipelines using:
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
-</p>
+<a href="mailto:donslice6@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-<p align="center">
-  <b>“Engineering scalable systems — from fintech infrastructure to programming language runtimes.”</b>
-</p>
+<div align="center">
+
+### Software Engineer focused on the systems behind the product.
+
+**Backend · Fintech · Infrastructure · Architecture**
+
+</div>
